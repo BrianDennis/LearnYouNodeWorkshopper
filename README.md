@@ -2,7 +2,7 @@
 
 ![Nodeschool Madison Logo](nodeSchoolMadison.png)
 
-<img src="nodeSchoolMadison.png" height="50%"/>
+<img src="nodeSchoolMadison.png" height="200px"/>
 
 My solution files from the LearnYouNode Workshopper from the Nodeschool Madison Meetup
 
