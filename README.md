@@ -6,4 +6,4 @@ My solution files from the LearnYouNode Workshopper from the Nodeschool Madison 
 
 Some files will not be present since I reused them for multiple lessons because I am lazy.
 
-**Progress: ** `9` Exercises out of `13` completed
+*Progress:* `9` exercises out of `13` completed
