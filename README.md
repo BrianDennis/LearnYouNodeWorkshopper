@@ -1,8 +1,6 @@
 # LearnYouNodeWorkshopper
 
-![Nodeschool Madison Logo](nodeSchoolMadison.png)
-
-<img src="nodeSchoolMadison.png" height="200px"/>
+<img src="nodeSchoolMadison.png" height="250px"/>
 
 My solution files from the LearnYouNode Workshopper from the Nodeschool Madison Meetup
 
