@@ -4,7 +4,7 @@
 
 My solution files from the LearnYouNode Workshopper from the Nodeschool Madison Meetup
 
-The workshopper itself can be found at [this GitHub repo](https://github.com/workshopper/learnyounode)
+The workshopper itself can be found [here](https://github.com/workshopper/learnyounode)
 
 Some files will not be present since I reused them for multiple lessons because I am lazy.
 
