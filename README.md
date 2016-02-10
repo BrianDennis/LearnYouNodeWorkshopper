@@ -1,10 +1,12 @@
-# LearnYouNodeWorkshopper
+# Node School Workshoppers
 
 <img src="nodeSchoolMadison.png" height="250px"/>
 
-My solution files from the LearnYouNode Workshopper from the Nodeschool Madison Meetup
+This is a collection of my code files from the Node School Madison meetups. 
 
-The workshopper itself can be found [here](https://github.com/workshopper/learnyounode)
+##LearnYouNode
+
+This workshopper can be found [here](https://github.com/workshopper/learnyounode)
 
 Some files will not be present since I reused them for multiple lessons because I am lazy.
 
