@@ -8,4 +8,6 @@ The workshopper itself can be found [here](https://github.com/workshopper/learny
 
 Some files will not be present since I reused them for multiple lessons because I am lazy.
 
-*Progress:* `9` exercises out of `13` completed
+*Progress:* `13` exercises out of `13` completed
+
+All done!
