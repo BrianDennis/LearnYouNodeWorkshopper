@@ -18,4 +18,4 @@ All done!
 
 This workshopper can be found [here](https://github.com/timoxley/functional-javascript-workshop)
 
-*Progress:* Not started yet!
+*Progress:* `0` exercises out of `17` completed
