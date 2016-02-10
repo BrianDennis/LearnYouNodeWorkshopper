@@ -13,3 +13,9 @@ Some files will not be present since I reused them for multiple lessons because 
 *Progress:* `13` exercises out of `13` completed
 
 All done!
+
+##FunctionalJavascript
+
+This workshopper can be found [here](https://github.com/timoxley/functional-javascript-workshop)
+
+*Progress:* Not started yet!
